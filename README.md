@@ -1,0 +1,13 @@
+You need to add .env file and fill these out:
+JWT_SECRET_KEY=""
+PORT=""
+DB=""
+DB_USERNAME=""
+DB_PASSWORD=""
+HOST=""
+STRIPE_SECRET_KEY=""
+GMAILUSER=""
+GMAILPASSWORD=""
+RESET_PASSWORD_SECRET_KEY=""
+CLIENT_URL=""
+
